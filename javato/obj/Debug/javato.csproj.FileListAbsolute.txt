@@ -1,0 +1,124 @@
+C:\Users\R\source\repos\javato\javato\bin\Debug\javato.exe.config
+C:\Users\R\source\repos\javato\javato\bin\Debug\javato.exe
+C:\Users\R\source\repos\javato\javato\bin\Debug\javato.pdb
+C:\Users\R\source\repos\javato\javato\obj\Debug\javato.csproj.AssemblyReference.cache
+C:\Users\R\source\repos\javato\javato\obj\Debug\javato.csproj.SuggestedBindingRedirects.cache
+C:\Users\R\source\repos\javato\javato\obj\Debug\javato.Form1.resources
+C:\Users\R\source\repos\javato\javato\obj\Debug\javato.Properties.Resources.resources
+C:\Users\R\source\repos\javato\javato\obj\Debug\javato.csproj.GenerateResource.cache
+C:\Users\R\source\repos\javato\javato\obj\Debug\javato.csproj.CoreCompileInputs.cache
+C:\Users\R\source\repos\javato\javato\obj\Debug\javato.exe
+C:\Users\R\source\repos\javato\javato\obj\Debug\javato.pdb
+C:\Users\R\source\repos\javato\javato\bin\Debug\LiveCharts.dll
+C:\Users\R\source\repos\javato\javato\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\R\source\repos\javato\javato\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\R\source\repos\javato\javato\bin\Debug\LiveCharts.pdb
+C:\Users\R\source\repos\javato\javato\bin\Debug\LiveCharts.xml
+C:\Users\R\source\repos\javato\javato\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\R\source\repos\javato\javato\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\R\source\repos\javato\javato\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\R\source\repos\javato\javato\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\R\source\repos\javato\javato\obj\Debug\javato.csproj.CopyComplete
+C:\Users\R\source\repos\javato\javato\bin\Debug\x86\sqlite3.dll
+C:\Users\R\source\repos\javato\javato\bin\Debug\x64\sqlite3.dll
+C:\Users\R\source\repos\javato\javato\bin\Debug\EntityFramework.dll
+C:\Users\R\source\repos\javato\javato\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\R\source\repos\javato\javato\bin\Debug\System.Data.SQLite.dll
+C:\Users\R\source\repos\javato\javato\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\R\source\repos\javato\javato\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\R\source\repos\javato\javato\bin\Debug\EntityFramework.xml
+C:\Users\R\source\repos\javato\javato\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\R\source\repos\javato\javato\bin\Debug\System.Data.SQLite.xml
+F:\javato\javato\javato\bin\Debug\x86\sqlite3.dll
+F:\javato\javato\javato\bin\Debug\x64\sqlite3.dll
+F:\javato\javato\javato\bin\Debug\javato.exe.config
+F:\javato\javato\javato\bin\Debug\javato.exe
+F:\javato\javato\javato\bin\Debug\javato.pdb
+F:\javato\javato\javato\bin\Debug\EntityFramework.dll
+F:\javato\javato\javato\bin\Debug\EntityFramework.SqlServer.dll
+F:\javato\javato\javato\bin\Debug\LiveCharts.dll
+F:\javato\javato\javato\bin\Debug\LiveCharts.WinForms.dll
+F:\javato\javato\javato\bin\Debug\LiveCharts.Wpf.dll
+F:\javato\javato\javato\bin\Debug\System.Data.SQLite.dll
+F:\javato\javato\javato\bin\Debug\System.Data.SQLite.EF6.dll
+F:\javato\javato\javato\bin\Debug\System.Data.SQLite.Linq.dll
+F:\javato\javato\javato\bin\Debug\EntityFramework.xml
+F:\javato\javato\javato\bin\Debug\EntityFramework.SqlServer.xml
+F:\javato\javato\javato\bin\Debug\LiveCharts.pdb
+F:\javato\javato\javato\bin\Debug\LiveCharts.xml
+F:\javato\javato\javato\bin\Debug\LiveCharts.WinForms.pdb
+F:\javato\javato\javato\bin\Debug\LiveCharts.WinForms.xml
+F:\javato\javato\javato\bin\Debug\LiveCharts.Wpf.pdb
+F:\javato\javato\javato\bin\Debug\LiveCharts.Wpf.xml
+F:\javato\javato\javato\bin\Debug\System.Data.SQLite.xml
+F:\javato\javato\javato\obj\Debug\javato.csproj.AssemblyReference.cache
+F:\javato\javato\javato\obj\Debug\javato.csproj.SuggestedBindingRedirects.cache
+F:\javato\javato\javato\obj\Debug\javato.Form1.resources
+F:\javato\javato\javato\obj\Debug\javato.Properties.Resources.resources
+F:\javato\javato\javato\obj\Debug\javato.csproj.GenerateResource.cache
+F:\javato\javato\javato\obj\Debug\javato.csproj.CoreCompileInputs.cache
+F:\javato\javato\javato\obj\Debug\javato.csproj.CopyComplete
+F:\javato\javato\javato\obj\Debug\javato.exe
+F:\javato\javato\javato\obj\Debug\javato.pdb
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\x86\sqlite3.dll
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\x64\sqlite3.dll
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\javato.exe.config
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\javato.exe
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\javato.pdb
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\EntityFramework.dll
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\LiveCharts.dll
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\System.Data.SQLite.dll
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\EntityFramework.xml
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\LiveCharts.pdb
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\LiveCharts.xml
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\bin\Debug\System.Data.SQLite.xml
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\obj\Debug\javato.csproj.AssemblyReference.cache
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\obj\Debug\javato.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\obj\Debug\javato.Form1.resources
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\obj\Debug\javato.Properties.Resources.resources
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\obj\Debug\javato.csproj.GenerateResource.cache
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\obj\Debug\javato.csproj.CoreCompileInputs.cache
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\obj\Debug\javato.csproj.CopyComplete
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\obj\Debug\javato.exe
+C:\Users\Samaèl\Documents\Visual Studio 2022\Projects\javato\javato\obj\Debug\javato.pdb
+D:\PROJET C#\javato\javato\bin\Debug\x86\sqlite3.dll
+D:\PROJET C#\javato\javato\bin\Debug\x64\sqlite3.dll
+D:\PROJET C#\javato\javato\bin\Debug\javato.exe.config
+D:\PROJET C#\javato\javato\bin\Debug\javato.exe
+D:\PROJET C#\javato\javato\bin\Debug\javato.pdb
+D:\PROJET C#\javato\javato\bin\Debug\EntityFramework.dll
+D:\PROJET C#\javato\javato\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJET C#\javato\javato\bin\Debug\LiveCharts.dll
+D:\PROJET C#\javato\javato\bin\Debug\LiveCharts.WinForms.dll
+D:\PROJET C#\javato\javato\bin\Debug\LiveCharts.Wpf.dll
+D:\PROJET C#\javato\javato\bin\Debug\System.Data.SQLite.dll
+D:\PROJET C#\javato\javato\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROJET C#\javato\javato\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROJET C#\javato\javato\bin\Debug\EntityFramework.xml
+D:\PROJET C#\javato\javato\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJET C#\javato\javato\bin\Debug\LiveCharts.pdb
+D:\PROJET C#\javato\javato\bin\Debug\LiveCharts.xml
+D:\PROJET C#\javato\javato\bin\Debug\LiveCharts.WinForms.pdb
+D:\PROJET C#\javato\javato\bin\Debug\LiveCharts.WinForms.xml
+D:\PROJET C#\javato\javato\bin\Debug\LiveCharts.Wpf.pdb
+D:\PROJET C#\javato\javato\bin\Debug\LiveCharts.Wpf.xml
+D:\PROJET C#\javato\javato\bin\Debug\System.Data.SQLite.xml
+D:\PROJET C#\javato\javato\obj\Debug\javato.csproj.AssemblyReference.cache
+D:\PROJET C#\javato\javato\obj\Debug\javato.csproj.SuggestedBindingRedirects.cache
+D:\PROJET C#\javato\javato\obj\Debug\javato.Form1.resources
+D:\PROJET C#\javato\javato\obj\Debug\javato.Properties.Resources.resources
+D:\PROJET C#\javato\javato\obj\Debug\javato.csproj.GenerateResource.cache
+D:\PROJET C#\javato\javato\obj\Debug\javato.csproj.CoreCompileInputs.cache
+D:\PROJET C#\javato\javato\obj\Debug\javato.csproj.CopyComplete
+D:\PROJET C#\javato\javato\obj\Debug\javato.exe
+D:\PROJET C#\javato\javato\obj\Debug\javato.pdb
